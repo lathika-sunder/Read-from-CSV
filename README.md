@@ -19,6 +19,9 @@ Display the last few indices of the file using tail() method and pass required n
 ### Step 5:
 Display the number of rows and columns of the file using len() and axes() method and pass argument as 0 to display row and 1 to display column.
 ## PROGRAM:
+
+#Program developed by LATHIKA SUNDER
+#Register no: 212221230054
 ```
 import pandas as pd
 df=pd.read_csv('data.csv')
